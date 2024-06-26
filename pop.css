@@ -1,0 +1,41 @@
+
+
+
+
+#box {
+    width: 300px;
+    height: 150px;
+    background: rgb(248, 5, 5);
+    margin-top: 100px;
+    display: none;
+    box-shadow: 5px 5px 20px black;
+
+ }
+ #text {
+     color: white;
+     font-size: 20px;
+     margin-top: 20px;
+ }
+ button{
+     margin-left: 600px;
+     padding: 20px 40px;
+     font-size: 20px;
+     background-color: rgb(9, 223, 45);
+     color: rgb(247, 2, 2);
+ }
+ input[type="button"] {
+     width: 100px;
+     height: 30px;
+     font-size: 20px;
+     margin-top: 20%;
+     cursor: pointer;
+ }
+ input[type="button"]:hover {
+     width: 100px;
+     height: 30px;
+     font-size: 20px;
+     margin-top: 20%;
+     cursor: pointer;
+     background-color: rgb(235, 9, 133);
+     color: white;
+ }
